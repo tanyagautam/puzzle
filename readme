@@ -1,1 +1,5 @@
 This is my multimedia project file
+
+This project was built to read an construct an image using .rgb file and perform functions like splitting the image and initializing it to actually create a slider puzzle.
+
+The same was implemented for a video which was also constructed using the .rgb file.
